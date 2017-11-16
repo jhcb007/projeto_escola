@@ -1,0 +1,15 @@
+{
+  "name": "teste-execel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrique Brandao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node-xlsx": "^0.11.0"
+  }
+}
